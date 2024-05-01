@@ -1,0 +1,199 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarte Trends</title>
+    <link rel="stylesheet" href="style.css">
+    
+ </head>
+ <body>
+    
+    <!--Header-->
+		<div class="header">
+			<table>
+				<tr>
+					<td>
+						<img
+							src="Images/homebutton.jpg"
+							style="border-radius: 250px"
+							width="30px"
+							height="30px"
+						/>
+					</td>
+					<td>Home</td>
+				</tr>
+			</table>
+			<hr />
+			<h2 style="text-align: center">Sarte Interior Design</h2>
+		</div>
+		<!--Call to Action-->
+		<div class="calltoaction">
+			<div class="callstoaction">
+				<p>
+					About Blog Contact Portfolio<br /><br />
+					Services Store
+				</p>
+			</div>
+		</div>
+		<!--Logo-->
+		<div class="logo">
+			<img
+				src="Images/Sarte.png"
+				alt="logo--"
+				style="border-radius: 250px"
+				width="120px"
+				height="120px"
+			/>
+		</div>
+ 
+		<br />
+    <div class="heading">
+        
+        <h1>Sarte Trends</h1>
+        <p>Explore latest trends</p>
+    </div>
+    <br>
+    <br>
+ <section class="container">
+    
+  <h1>Contemporary minimilist  </h1>
+  <p>  Dive into the cozy and neat world of minimilist designs <br>Plants, B&W and woods are the standard for this look,  <br>
+        Simple yet a space that inspires and captivates.
+  </p>
+    <div class="slider-wrapper">
+        
+        <div class="slider">
+            
+            <img id="slide-1" src="https://i.pinimg.com/564x/85/4d/24/854d2487771731af5b5c3ece4dbd67b9.jpg" >
+            <img id="slide-2" src="https://i.pinimg.com/564x/0c/42/5a/0c425aecd86f2229d976e57973af3bb3.jpg" >
+            <img id="slide-3" src="https://i.pinimg.com/564x/b5/68/e8/b568e837a852543fd26a1637fbfd7aee.jpg" >
+            <img id="slide-4" src="https://i.pinimg.com/736x/58/b8/80/58b880cd569dc01bdadb6a87e6c4383e.jpg" >
+            <img id="slide-5" src="https://i.pinimg.com/564x/7a/da/d5/7adad54314b3b7d9884ed92854bc9177.jpg" >
+            
+        </div>
+     
+        <div class="slider-nav">
+            <a href="#slide-1"></a>
+            <a href="#slide-2"></a>
+            <a href="#slide-3"></a>
+            <a href="#slide-4"></a>
+            <a href="#slide-5"></a>
+        </div>
+    </div>
+ </section>
+<br>
+
+
+ <section class="container2">
+        
+  <h1>Art Decor  </h1>
+  <p>Bold and bright colours are the highlight of this trend,<br>the exciting 
+    yet chic looks can freshin up <br> your usual interior designs  <br>
+    wall arts, contrasting bright colours  <br> 
+    are the ways to achieve to this look
+  </p>
+    <div class="slider-wrapper2">
+        <div class="slider2">
+            <img id="slide-6" src="https://i.pinimg.com/564x/e6/ac/16/e6ac16f0a0435f39d56062d5c363c61e.jpg" >
+            <img id="slide-7" src="https://i.pinimg.com/564x/57/02/83/570283a32fa6766eba49eb88d4700357.jpg" >
+            <img id="slide-8" src="https://i.pinimg.com/564x/b9/73/ab/b973ab359d2e9e0a8cb50667f30a53f1.jpg" >
+            <img id="slide-9" src="https://i.pinimg.com/564x/83/9a/c0/839ac068143888bff10784cd32856c1c.jpg" >
+            <img id="slide-10" src="https://i.pinimg.com/564x/13/e5/ca/13e5ca6f7d611934a2dc2e077d749de6.jpg" >
+
+        </div>
+        <div class="slider-nav2">
+            <a href="#slide-6"></a>
+            <a href="#slide-7"></a>
+            <a href="#slide-8"></a>
+            <a href="#slide-9"></a>
+            <a href="#slide-10"></a>
+        </div>
+
+    </div>
+ </section>
+ <br>
+ <section class="container3">
+        
+  <h1>Industrail designs </h1>
+  <p>Craft the cozy and out of the box designs <br> through Industrail interior <br>
+     alluring and charming home lofts, <br> deep and relaxing undertones of wood make it unmatched.
+       </p>
+   
+    <div class="slider-wrapper3">
+        <div class="slider3">
+            <img id="slide-11" src="https://i.pinimg.com/564x/b7/16/b4/b716b472316556ab95078a7ef4fe3d78.jpg" >
+            <img id="slide-12" src="https://i.pinimg.com/736x/32/5d/0d/325d0dcf5374253e2058a1d68d9598d4.jpg" >
+            <img id="slide-13" src="https://i.pinimg.com/564x/ce/4b/65/ce4b65eeb3e75c40276a823af6f06067.jpg" >
+            <img id="slide-14" src="https://i.pinimg.com/564x/50/25/0c/50250cc4cdca2dc3f13666aaba728b7a.jpg" >
+            <img id="slide-15" src="https://i.pinimg.com/564x/9f/53/15/9f5315da79d2c625746698e2af5ec72f.jpg" >
+
+        </div>
+        <div class="slider-nav3">
+            <a href="#slide-11"></a>
+            <a href="#slide-12"></a>
+            <a href="#slide-13"></a>
+            <a href="#slide-14"></a>
+            <a href="#slide-15"></a>
+        </div>
+
+    </div>
+ </section>
+ <br>
+ <section class="container4">
+    
+    <h1>Electic maximilist  </h1>
+    <p> Over the top decor, mixing and matching furniture pieces, <br>  trendy wall arts, bold colors and patterns. <br>
+        Embrace the eclectic style and create a cozy, <br>colorful haven that reflects your unique personality. <br>
+        
+    </p>
+    <div class="slider-wrapper4">
+        <div class="slider4">
+            <img id="slide-16" src="https://i.pinimg.com/564x/8e/8a/79/8e8a7935e321e2409871378aa396fc54.jpg" >
+            <img id="slide-17" src="https://i.pinimg.com/736x/bc/70/ea/bc70ea000a892681b545c979b4fbb9e7.jpg" >
+            <img id="slide-18" src="https://i.pinimg.com/736x/0c/88/bb/0c88bbb3c747f8a9029e494ca52b43a0.jpg" >
+            <img id="slide-19" src="https://i.pinimg.com/564x/39/e2/37/39e237f835ce1908e152601bd927c120.jpg" >
+            <img id="slide-20" src="https://i.pinimg.com/564x/d6/08/5f/d6085ff97015f5e15be3dd65ebcca7df.jpg" >
+
+        </div>
+        <div class="slider-nav4">
+            <a href="#slide-16"></a>
+            <a href="#slide-17"></a>
+            <a href="#slide-18"></a>
+            <a href="#slide-19"></a>
+            <a href="#slide-20"></a>
+        </div>
+
+    </div>
+ </section>
+ <!--Footer-->
+ <div class="footer">
+    <footer>
+        <img
+            src="Images/fblogo.jpg"
+            width="42px"
+            height="42px"
+            align="top"
+            style="border-radius: 250px"
+        />
+        <img
+            src="Images/twitterlogo.jpg"
+            width="42px"
+            height="42px"
+            align="top"
+            style="border-radius: 250px"
+        />
+        <img
+            src="Images/il.jpg"
+            width="42px"
+            height="42px"
+            align="top"
+            style="border-radius: 100px"
+        />
+        <br /><br />
+        <h3 style="letter-spacing: 2px">sarteinteriordesign.com</h3>
+    </footer>
+</div>
+    
+ </body>
+ </html>
